@@ -14,5 +14,7 @@
 	<a href="/views/test01.jsp">페이지 이동</a>
 	<a href="/views/test02.jsp">페이지 이동22</a>
 	<p>뚜루뚜루...</p>
+	
+	<p>커밋을 돌려보겠습니다 우하하.</p>
 </body>
 </html>
