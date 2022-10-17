@@ -7,13 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>test 페이지 제작중</h1>
-	<hr>
-	<ul>
-		<li>제작중</li>
-		<li>제작완료</li>
-	</ul>
-	<p>test01.. </p>
-	<p>소스추가2</p>
+	<p>또또또 추가해봤다</p>
 </body>
 </html>
