@@ -11,5 +11,6 @@
 	<h1>GIT TEST PROJECT</h1>
 	<p>내용추가</p>
 	<p>내용 또 추가</p>
+	<a href="/views/test01.jsp">페이지 이동</a>
 </body>
 </html>
